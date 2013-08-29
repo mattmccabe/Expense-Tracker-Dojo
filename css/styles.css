@@ -1,0 +1,19 @@
+body {
+	padding: 20px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+#navLinks a {
+	cursor: pointer;
+}
+
+#addExpenseDiv {
+	display: block;
+}
+
+#entriesDiv, #adminDiv {
+	display: none;
+}
